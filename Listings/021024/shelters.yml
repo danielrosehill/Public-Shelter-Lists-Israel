@@ -1,0 +1,121 @@
+cities:
+  - name: Afula
+    link: https://www.afula.muni.il/he/262/
+  - name: Akko
+    link: https://www.akko.muni.il/he/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Alona
+    link: https://www.alona.org.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/
+  - name: Ariel
+    link: https://www.ariel.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/
+  - name: Ashdod
+    link: https://www.ashdod.muni.il/he-il/%D7%90%D7%AA%D7%A8-%D7%94%D7%A2%D7%99%D7%A8/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Ashkelon
+    link: https://www.ashkelon.muni.il/service/emergency/Pages/RECEIVERS.aspx
+  - name: Bat Yam
+    link: https://www.bat-yam.muni.il/he/148/
+  - name: Beer Sheva
+    link: https://www.beer-sheva.muni.il/Residents/Emergency/b7/pages/miklatim.aspx
+  - name: Beer Yaakov
+    link: https://www.b-y.org.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%94%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Beit Dagan
+    link: https://www.beitdagan.muni.il/Emergency/Pages/shelter.aspx
+  - name: Beit Shean
+    link: https://bet-shean.org.il/%D7%9E%D7%97%D7%9C%D7%A7%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%95%D7%97%D7%A0%D7%99%D7%95%D7%A0%D7%99%D7%9D/
+  - name: Beit Shemesh
+    link: https://experience.arcgis.com/experience/cd996a5bbeed48e082b55959345125ae/
+  - name: Bnei Ayish
+    link: https://www.bney-ayish.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Bnei Brak
+    link: https://www.bnei-brak.muni.il/Lists/List1/CustomDispForm.aspx?ID=763
+  - name: Dimona
+    link: https://www.dimona.muni.il/%D7%A4%D7%A8%D7%99%D7%A1%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/
+  - name: Drom HaSharon
+    link: https://www.dsharon.org.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%93%D7%A8%D7%95%D7%9D-%D7%94%D7%A9%D7%A8%D7%95%D7%9F/
+  - name: Efrat
+    link: https://www.efrat.muni.il/he/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%95%D7%9E%D7%A8%D7%97%D7%91-%D7%9E%D7%95%D7%92%D7%9F/
+  - name: Eilat
+    link: https://www.eilat.muni.il/sheltersmap/
+  - name: Eilat
+    link: https://www.eilat.muni.il/protected-space/
+  - name: Gedera
+    link: https://www.gedera.muni.il/RichText/GeneralPage.aspx?nodeId=1037
+  - name: Gderot
+    link: https://www.gderot.muni.il/105/
+  - name: Givat Shmuel
+    link: https://www.givat-shmuel.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/
+  - name: Givatayim
+    link: https://www.givatayim.muni.il/266/
+  - name: Haifa
+    link: https://www.haifa.muni.il/operation/security-and-emergency/safe-place/
+  - name: Herzlia
+    link: https://www.herzliya.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Hod HaSharon
+    link: https://hof-hasharon.co.il/uploads/n/1644145994.6565.pdf
+  - name: Jerusalem
+    link: https://www.jerusalem.muni.il/he/residents/security/shelters/
+  - name: Kfar Saba
+    link: https://www.kfar-saba.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%9C%D7%A9%D7%A2%D7%AA-%D7%97%D7%99%D7%A8%D7%95%D7%9D/
+  - name: Kfar Saba
+    link: https://kfar-saba.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%99%D7%9D-%D7%91%D7%9B%D7%A4%D7%A8-%D7%A1%D7%91%D7%90/
+  - name: Kfar Shmaryahu
+    link: http://www.kfar-shemaryahu.muni.il/?CategoryID=519
+  - name: Kfar Yona
+    link: https://kfar-yona.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%95%D7%A4%D7%A8%D7%98%D7%99%D7%99%D7%9D/
+  - name: Kiryat Ata
+    link: https://www.kiryat-ata.org.il/residentservice/emergency/publicshelterslist/
+  - name: Kiryat Balik
+    link: https://qbialik.org.il/%D7%97%D7%99%D7%A8%D7%95%D7%9D/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-2/
+  - name: Kiryat Ekron
+    link: https://kiryat-ekron.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/
+  - name: Kiryat Ono
+    link: https://www.kiryatono.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/
+  - name: Kiryat Shmoneh
+    link: https://www.k-8.co.il/he/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/
+  - name: Lod
+    link: https://www.lod.muni.il/he/121/
+  - name: Mevaseret Tsion
+    link: https://www.m-zion.org.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%96%D7%9E%D7%99%D7%A0%D7%99%D7%9D-%D7%9C%D7%A9%D7%99%D7%9E%D7%95%D7%A9/
+  - name: Modiin
+    link: https://www.modiin-region.muni.il/77/
+  - name: Mitzpeh Ramon
+    link: https://mitzpe-ramon.muni.il/%D7%AA%D7%95%D7%A9%D7%91%D7%99%D7%9D/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/
+  - name: Nahariya
+    link: https://www.nahariya.muni.il/%D7%9E%D7%99%D7%92%D7%95%D7%9F-%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%94/
+  - name: Netanya
+    link: https://www.netanya.muni.il/City/SecurityAndEmergency/DS/shelters/Pages/default.aspx
+  - name: Netivot
+    link: https://www.netivot.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/
+  - name: Ofakim
+    link: https://www.ofaqim.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%90%D7%97%D7%A8%D7%99%D7%95%D7%AA-%D7%94%D7%A8%D7%A9%D7%95%D7%AA/
+  - name: Or Yehuda
+    link: https://www.oryehuda.muni.il/%D7%98%D7%91%D7%9C%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%95%D7%A8-%D7%99%D7%94%D7%95%D7%93%D7%94/
+  - name: Pardes Hanna
+    link: https://www.pardes-hanna-karkur.muni.il/30/
+  - name: Petakh Tikvah
+    link: https://www.petah-tikva.muni.il/Emergency/Pages/Receivers.aspx
+  - name: Raanana
+    link: https://www.raanana.muni.il/SafetyAndEmergency/Pages/Publicshelters.aspx
+  - name: Ramat Gan
+    link: https://www.ramat-gan.muni.il/department-security-and-enforcement/business-units/emergency
+  - name: Ramat HaSharon
+    link: https://ramat-hasharon.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%A4%D7%AA%D7%95%D7%97%D7%99%D7%9D/
+  - name: Ramle
+    link: https://ramle.org.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%94%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Rehovot
+    link: https://www.rehovot.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Rishon LeTsion
+    link: https://www.rishonlezion.muni.il/Residents/SecurityEmergency/Pages/Publicshelter.aspx
+  - name: Rosh HaAyin
+    link: https://www.rosh-haayin.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/
+  - name: Safed
+    link: https://www.zefat.muni.il/emergency/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/
+  - name: Tel Aviv
+    link: https://gisn.tel-aviv.gov.il/iview2js4/index.aspx?zoom=14000&layers=592&
+  - name: Tiberias
+    link: https://www.tiberias.muni.il/city/Documents/%D7%91%D7%98%D7%97%D7%95%D7%9F%20%D7%95%D7%97%D7%99%D7%A8%D7%95%D7%9D/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA%20%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A2%D7%93%D7%9B%D7%95%D7%9F%20%D7%9E%D7%AA%D7%90%D7%A8%D7%99%D7%9A%2012-5-21.pdf
+  - name: Yavne
+    link: https://www.yavne.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%99%D7%91%D7%A0%D7%94/
+  - name: Zamarin
+    link: https://www.zamarin.org.il/page.php?type=page&id=8743&m=306&ht=
+  - name: Zoran
+    link: https://www.kadima-zoran.muni.il/%D7%90%D7%92%D7%A4%D7%99%D7%9D-%D7%95%D7%9E%D7%97%D7%9C%D7%A7%D7%95%D7%AA/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F/%D7%9E%D7%99%D7%93%D7%A2-%D7%91%D7%97%D7%A8%D7%95%D7%9D/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/

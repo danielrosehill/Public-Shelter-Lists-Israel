@@ -1,0 +1,242 @@
+<cities>
+  <city>
+    <name>Afula</name>
+    <link>https://www.afula.muni.il/he/262/</link>
+  </city>
+  <city>
+    <name>Akko</name>
+    <link>https://www.akko.muni.il/he/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Alona</name>
+    <link>https://www.alona.org.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Ariel</name>
+    <link>https://www.ariel.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/</link>
+  </city>
+  <city>
+    <name>Ashdod</name>
+    <link>https://www.ashdod.muni.il/he-il/%D7%90%D7%AA%D7%A8-%D7%94%D7%A2%D7%99%D7%A8/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Ashkelon</name>
+    <link>https://www.ashkelon.muni.il/service/emergency/Pages/RECEIVERS.aspx</link>
+  </city>
+  <city>
+    <name>Bat Yam</name>
+    <link>https://www.bat-yam.muni.il/he/148/</link>
+  </city>
+  <city>
+    <name>Beer Sheva</name>
+    <link>https://www.beer-sheva.muni.il/Residents/Emergency/b7/pages/miklatim.aspx</link>
+  </city>
+  <city>
+    <name>Beer Yaakov</name>
+    <link>https://www.b-y.org.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%94%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Beit Dagan</name>
+    <link>https://www.beitdagan.muni.il/Emergency/Pages/shelter.aspx</link>
+  </city>
+  <city>
+    <name>Beit Shean</name>
+    <link>https://bet-shean.org.il/%D7%9E%D7%97%D7%9C%D7%A7%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%95%D7%97%D7%A0%D7%99%D7%95%D7%A0%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Beit Shemesh</name>
+    <link>https://experience.arcgis.com/experience/cd996a5bbeed48e082b55959345125ae/</link>
+  </city>
+  <city>
+    <name>Bnei Ayish</name>
+    <link>https://www.bney-ayish.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Bnei Brak</name>
+    <link>https://www.bnei-brak.muni.il/Lists/List1/CustomDispForm.aspx?ID=763</link>
+  </city>
+  <city>
+    <name>Dimona</name>
+    <link>https://www.dimona.muni.il/%D7%A4%D7%A8%D7%99%D7%A1%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/</link>
+  </city>
+  <city>
+    <name>Drom HaSharon</name>
+    <link>https://www.dsharon.org.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%93%D7%A8%D7%95%D7%9D-%D7%94%D7%A9%D7%A8%D7%95%D7%9F/</link>
+  </city>
+  <city>
+    <name>Efrat</name>
+    <link>https://www.efrat.muni.il/he/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%95%D7%9E%D7%A8%D7%97%D7%91-%D7%9E%D7%95%D7%92%D7%9F/</link>
+  </city>
+  <city>
+    <name>Eilat</name>
+    <link>https://www.eilat.muni.il/sheltersmap/</link>
+  </city>
+  <city>
+    <name>Eilat</name>
+    <link>https://www.eilat.muni.il/protected-space/</link>
+  </city>
+  <city>
+    <name>Gedera</name>
+    <link>https://www.gedera.muni.il/RichText/GeneralPage.aspx?nodeId=1037</link>
+  </city>
+  <city>
+    <name>Gderot</name>
+    <link>https://www.gderot.muni.il/105/</link>
+  </city>
+  <city>
+    <name>Givat Shmuel</name>
+    <link>https://www.givat-shmuel.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/</link>
+  </city>
+  <city>
+    <name>Givatayim</name>
+    <link>https://www.givatayim.muni.il/266/</link>
+  </city>
+  <city>
+    <name>Haifa</name>
+    <link>https://www.haifa.muni.il/operation/security-and-emergency/safe-place/</link>
+  </city>
+  <city>
+    <name>Herzlia</name>
+    <link>https://www.herzliya.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Hod HaSharon</name>
+    <link>https://hof-hasharon.co.il/uploads/n/1644145994.6565.pdf</link>
+  </city>
+  <city>
+    <name>Jerusalem</name>
+    <link>https://www.jerusalem.muni.il/he/residents/security/shelters/</link>
+  </city>
+  <city>
+    <name>Kfar Saba</name>
+    <link>https://www.kfar-saba.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%9C%D7%A9%D7%A2%D7%AA-%D7%97%D7%99%D7%A8%D7%95%D7%9D/</link>
+  </city>
+  <city>
+    <name>Kfar Saba</name>
+    <link>https://kfar-saba.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%99%D7%9D-%D7%91%D7%9B%D7%A4%D7%A8-%D7%A1%D7%91%D7%90/</link>
+  </city>
+  <city>
+    <name>Kfar Shmaryahu</name>
+    <link>http://www.kfar-shemaryahu.muni.il/?CategoryID=519</link>
+  </city>
+  <city>
+    <name>Kfar Yona</name>
+    <link>https://kfar-yona.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%95%D7%A4%D7%A8%D7%98%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Kiryat Ata</name>
+    <link>https://www.kiryat-ata.org.il/residentservice/emergency/publicshelterslist/</link>
+  </city>
+  <city>
+    <name>Kiryat Balik</name>
+    <link>https://qbialik.org.il/%D7%97%D7%99%D7%A8%D7%95%D7%9D/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-2/</link>
+  </city>
+  <city>
+    <name>Kiryat Ekron</name>
+    <link>https://kiryat-ekron.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Kiryat Ono</name>
+    <link>https://www.kiryatono.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/</link>
+  </city>
+  <city>
+    <name>Kiryat Shmoneh</name>
+    <link>https://www.k-8.co.il/he/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%A2%D7%99%D7%A8/</link>
+  </city>
+  <city>
+    <name>Lod</name>
+    <link>https://www.lod.muni.il/he/121/</link>
+  </city>
+  <city>
+    <name>Mevaseret Tsion</name>
+    <link>https://www.m-zion.org.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%96%D7%9E%D7%99%D7%A0%D7%99%D7%9D-%D7%9C%D7%A9%D7%99%D7%9E%D7%95%D7%A9/</link>
+  </city>
+  <city>
+    <name>Modiin</name>
+    <link>https://www.modiin-region.muni.il/77/</link>
+  </city>
+  <city>
+    <name>Mitzpeh Ramon</name>
+    <link>https://mitzpe-ramon.muni.il/%D7%AA%D7%95%D7%A9%D7%91%D7%99%D7%9D/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Nahariya</name>
+    <link>https://www.nahariya.muni.il/%D7%9E%D7%99%D7%92%D7%95%D7%9F-%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%94/</link>
+  </city>
+  <city>
+    <name>Netanya</name>
+    <link>https://www.netanya.muni.il/City/SecurityAndEmergency/DS/shelters/Pages/default.aspx</link>
+  </city>
+  <city>
+    <name>Netivot</name>
+    <link>https://www.netivot.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Ofakim</name>
+    <link>https://www.ofaqim.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%90%D7%97%D7%A8%D7%99%D7%95%D7%AA-%D7%94%D7%A8%D7%A9%D7%95%D7%AA/</link>
+  </city>
+  <city>
+    <name>Or Yehuda</name>
+    <link>https://www.oryehuda.muni.il/%D7%98%D7%91%D7%9C%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%95%D7%A8-%D7%99%D7%94%D7%95%D7%93%D7%94/</link>
+  </city>
+  <city>
+    <name>Pardes Hanna</name>
+    <link>https://www.pardes-hanna-karkur.muni.il/30/</link>
+  </city>
+  <city>
+    <name>Petakh Tikvah</name>
+    <link>https://www.petah-tikva.muni.il/Emergency/Pages/Receivers.aspx</link>
+  </city>
+  <city>
+    <name>Raanana</name>
+    <link>https://www.raanana.muni.il/SafetyAndEmergency/Pages/Publicshelters.aspx</link>
+  </city>
+  <city>
+    <name>Ramat Gan</name>
+    <link>https://www.ramat-gan.muni.il/department-security-and-enforcement/business-units/emergency</link>
+  </city>
+  <city>
+    <name>Ramat HaSharon</name>
+    <link>https://ramat-hasharon.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%A4%D7%AA%D7%95%D7%97%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Ramle</name>
+    <link>https://ramle.org.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%94%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Rehovot</name>
+    <link>https://www.rehovot.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Rishon LeTsion</name>
+    <link>https://www.rishonlezion.muni.il/Residents/SecurityEmergency/Pages/Publicshelter.aspx</link>
+  </city>
+  <city>
+    <name>Rosh HaAyin</name>
+    <link>https://www.rosh-haayin.muni.il/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Safed</name>
+    <link>https://www.zefat.muni.il/emergency/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+  <city>
+    <name>Tel Aviv</name>
+    <link>https://gisn.tel-aviv.gov.il/iview2js4/index.aspx?zoom=14000&layers=592&</link>
+  </city>
+  <city>
+    <name>Tiberias</name>
+    <link>https://www.tiberias.muni.il/city/Documents/%D7%91%D7%98%D7%97%D7%95%D7%9F%20%D7%95%D7%97%D7%99%D7%A8%D7%95%D7%9D/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA%20%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A2%D7%93%D7%9B%D7%95%D7%9F%20%D7%9E%D7%AA%D7%90%D7%A8%D7%99%D7%9A%2012-5-21.pdf</link>
+  </city>
+  <city>
+    <name>Yavne</name>
+    <link>https://www.yavne.muni.il/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D-%D7%91%D7%99%D7%91%D7%A0%D7%94/</link>
+  </city>
+  <city>
+    <name>Zamarin</name>
+    <link>https://www.zamarin.org.il/page.php?type=page&id=8743&m=306&ht=</link>
+  </city>
+  <city>
+    <name>Zoran</name>
+    <link>https://www.kadima-zoran.muni.il/%D7%90%D7%92%D7%A4%D7%99%D7%9D-%D7%95%D7%9E%D7%97%D7%9C%D7%A7%D7%95%D7%AA/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F/%D7%9E%D7%99%D7%93%D7%A2-%D7%91%D7%97%D7%A8%D7%95%D7%9D/%D7%9E%D7%A7%D7%9C%D7%98%D7%99%D7%9D-%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D/</link>
+  </city>
+</cities>
